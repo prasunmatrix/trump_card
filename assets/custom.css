@@ -1,0 +1,31 @@
+.note{
+	margin-top: 15px;
+	font-weight: 600;
+}
+
+.modal-body.text {
+    text-align: center;
+    font-weight: 600;
+    font-family: initial;
+    color: red;
+    font-size: 16px;
+}
+
+.table-bordered thead td, .table-bordered thead th {
+    border-bottom-width: 1px !important;
+}
+
+body[data-sidebar=dark] .navbar-brand-box {
+    background: #616163 !important;
+}
+
+span.text-style {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+h4.font-size-18 {
+    margin-bottom: 15px !important;
+}
