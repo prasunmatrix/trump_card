@@ -31,5 +31,6 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 //custom constant
 define('PROJECT_NAME', 'Clash of Cards');
-define('COPY_RIGHT', 'Copyright @ 2020 Mridaya IT Services. All Right Reserved');
+//define('COPY_RIGHT', 'Copyright @ 2020 Mridaya IT Services. All Right Reserved');
+define('COPY_RIGHT', 'Copyright @'. date('Y') .' Mridaya IT Services. All Right Reserved');
 define('ADMIN_TITLE', 'Clash of Cards | Dashboard');

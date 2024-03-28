@@ -11,6 +11,8 @@ class MY_Controller extends CI_Controller
     {
       if(!empty($admindata)) 
       {
+        // echo "<pre>";
+        // print_r($admindata); die;
         $this->session->set_userdata('admin', $admindata);
       }
     }

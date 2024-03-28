@@ -1,4 +1,5 @@
-var BASE_URL  = 'http://localhost/mridayaitservices/trump_card/';
+//var BASE_URL  = 'http://localhost/mridayaitservices/trump_card/';
+var BASE_URL  = 'http://localhost/testprojects/trump_card/';
 var base_url  = window.location.origin;
 var host      = window.location.host;
 var pathArray = window.location.pathname.split('/');
